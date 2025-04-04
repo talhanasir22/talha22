@@ -9,13 +9,12 @@
 
 ## 
 
-### ➡️ **Join my Discord Server to learn Backend Development with Node.js, Express.js, MongoDB and more!** ⬅️
-🔗 **https://discord.gg/ypXxfxCW**
+### ➡️ **Follow me to learn flutter and build crossplatform AI integrated mobile apps** ⬅️
 
 ## About Me
 
 <p align="center">
-<h3 align="center">Hey there, I'm <a href="https://github.com/AbdulAhad365">Abdul Ahad</a></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/talhanasir22">Talha Nasir</a></h3>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -65,9 +64,9 @@
 
 ## What I'm Doing
 
-- 🔭 Working on ML/ Tensor/TensorFlow Development
-- 🌱 Learning Node.js & Javascipt
-- 📫 How to contact me: amir.raza537918@gmail.com (gmail)
+- 🔭 Working on Dart/ flutter/TensorFlow Development
+- 🌱 Working on Node.js and mongo DB
+- 📫 How to contact me: talhanasir789789@gmail.com (gmail)
 
 
 <!--   HERE ARE THE MY FAVOUTITE TECHNOLOGY-->
